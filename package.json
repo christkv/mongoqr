@@ -1,0 +1,31 @@
+{
+  "name": "mongoqr",
+  "version": "0.0.1",
+  "description": "Experimental Mongo Query Functionalities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/christkv/mongoqr.git"
+  },
+  "keywords": [
+    "mongo",
+    "query",
+    "experimental"
+  ],
+  "dependencies": {
+    "mongodb": "latest"
+  },
+  "devDependencies": {
+    "nodeunit": "latest"
+  },
+  "author": "Christian Amor Kvalheim",
+  "license": "Apache 2.0",
+  "gitHead": "e2f3130d3c0bfd9c7f16ed66b3a4d4da03e5e3b6",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/christkv/mongoqr/issues"
+  }
+}
